@@ -19,9 +19,10 @@ All images are optimized for modern displays and suitable for Windows, macOS, an
 | `dark-forest-silhouette.jpg` | Nature – full-moon night sky behind a forest silhouette |
 
 ## How to Use
-1. Browse the repository and select your preferred wallpaper.
-2. Click on the image to view it in full resolution.
-3. Download and set it as your desktop background.
+1. Open `/home/runner/work/Desktop-Wallpapers/Desktop-Wallpapers/index.html` in your browser.
+2. Browse or search wallpapers in the gallery.
+3. Click a wallpaper to preview it.
+4. Use the **Download** button to save it.
 
 ## Contribution
 If you have great wallpapers to share, feel free to fork this repository and submit a pull request.
